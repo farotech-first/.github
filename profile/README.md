@@ -1,1 +1,1 @@
-![img](.github/img.jpg)
+![img](.github/group.jpg)
