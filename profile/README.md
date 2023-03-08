@@ -1,1 +1,1 @@
-![img](/group.jpg)
+![img](/team_photo.png)
